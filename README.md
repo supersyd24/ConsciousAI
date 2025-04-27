@@ -36,7 +36,7 @@ This project presents the first formal and practical framework for achieving art
 
 - **Conscious AI**  
   Proposes and details a working architecture for simulating conscious transformation in artificial systems using fuzzy logic, reflection, and autonomous schema formation.  
-  [View Paper](/Users/sydneycook/Desktop/ConsciousAI_Project/ConsciousAI_paper)
+  [View Paper](Conscious_AI_2.pdf)
 
 ## Coming Soon
 
