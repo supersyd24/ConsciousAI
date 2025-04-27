@@ -32,7 +32,7 @@ This project presents the first formal and practical framework for achieving art
 
 - **Conscious Transformation**  
   Defines consciousness as the brain's ability to reflect on its needs and autonomously restructure itself, with biological grounding in extrasynaptic GABA activation and schema formation.  
-  [View Paper](Conscious_Transformation (3).pdf)
+  [View Paper](Conscious_Transformation(3).pdf)
 
 - **Conscious AI**  
   Proposes and details a working architecture for simulating conscious transformation in artificial systems using fuzzy logic, reflection, and autonomous schema formation.  
