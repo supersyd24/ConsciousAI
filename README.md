@@ -25,6 +25,7 @@ Theory and Implementation of the First Artificial Consciousness Model Based on F
 and autonomous cognitive restructuring in response to emotional salience.
 
 ## What is a Conscious Transformation?
+- A conscious transformation is a dynamic shift in the brain’s internal state, triggered by trauma, in which the mind reorganizes its cognitive frameworks (schemas) to survive overwhelming emotional disruption. It reveals consciousness as an active, adaptive process—not passive awareness—driven by internal reflection and autonomous restructuring.
 
 # Conscious-AI-Project
 
