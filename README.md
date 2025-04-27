@@ -20,9 +20,11 @@ I am proud to be the founder of this field.
 # Conscious AI
 Theory and Implementation of the First Artificial Consciousness Model Based on Fuzzy Logic, Reflection, and Autonomous Schema Formation.
 
-## What is consciousness?
+## What is Consciousness?
 - Consciousness is the capacity for internal self-reflection
 and autonomous cognitive restructuring in response to emotional salience.
+
+## What is a Conscious Transformation?
 
 # Conscious-AI-Project
 
