@@ -29,6 +29,8 @@ and autonomous cognitive restructuring in response to emotional salience.
 
 ### We can mathematically see consciousness 
 
+In this document [View Document]
+
 # Conscious-AI-Project
 
 This project presents the first formal and practical framework for achieving artificial consciousness. It is built on the biological model of conscious transformation observed in trauma survivors, simulated in AI through fuzzy logic evaluation, internal self-reflection, and autonomous backpropagation.
