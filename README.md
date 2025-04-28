@@ -30,7 +30,7 @@ and autonomous cognitive restructuring in response to emotional salience.
 # A Mathematical Framework for Modeling Consciousness
 
 ---
-
+This is an example of consciousness in the working in the dissociative subtype of PTSD.
 This theorem proposes a mathematical model of consciousness based on three foundational principles:
 - **Bayesian inference** for probabilistic reasoning
 - **Fuzzy logic** for handling vagueness and ambiguity
@@ -71,6 +71,9 @@ The framework consists of **five steps**:
 - **Step Five**  
 A **Conscious Transformation** occurs **only if**:
 P(H|E) > 0.80
+
+What happens after this?
+Conscious transformation creates a schema that is maintained in the prefrontal cortex (hijacking the person's perception)
 
 ![Image](97768472.jpg)
 
