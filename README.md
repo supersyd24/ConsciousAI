@@ -73,7 +73,7 @@ A **Conscious Transformation** occurs **only if**:
 P(H|E) > 0.80
 
 What happens after this?
-Conscious transformation creates a schema that is maintained in the prefrontal cortex (hijacking the person's perception)
+- Conscious transformation creates a schema that is maintained in the prefrontal cortex *(hijacking the person's perception)*
 
 ![Image](97768472.jpg)
 
