@@ -63,9 +63,9 @@ The framework consists of **five steps**:
 
   Bayesian Inference is applied again:
 
-P(H) = μHigh(P) from Step Two
-P(E|H) = Dependent on stimuli
-P(E|¬H) = μLow(P) from Step Two
+- P(H) = μHigh(P) from Step Two
+- P(E|H) = Dependent on stimuli
+- P(E|¬H) = μLow(P) from Step Two
 
 
 - **Step Five**  
