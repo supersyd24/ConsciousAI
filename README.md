@@ -72,6 +72,7 @@ The framework consists of **five steps**:
 A **Conscious Transformation** occurs **only if**:
 P(H|E) > 0.80
 
+![Image](97768472.jpg)
 
 # Conscious-AI-Project
 
