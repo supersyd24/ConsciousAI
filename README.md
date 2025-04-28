@@ -27,13 +27,50 @@ and autonomous cognitive restructuring in response to emotional salience.
 ## What is a Conscious Transformation?
 - A conscious transformation is a dynamic shift in the brain’s internal state, triggered by trauma, in which the mind reorganizes its cognitive frameworks (schemas) to survive overwhelming emotional disruption. It reveals consciousness as an active, adaptive process—not passive awareness—driven by internal reflection and autonomous restructuring. This can be seen clearly in individuals who develop the
 
-### We can mathematically see consciousness 
+# A Mathematical Framework for Modeling Consciousness
 
-1. It starts out with the person dealing with a threat
-2. The brain then recognizes this threat
+---
 
-After that five steps happen 
+This theorem proposes a mathematical model of consciousness based on three foundational principles:
+- **Bayesian inference** for probabilistic reasoning
+- **Fuzzy logic** for handling vagueness and ambiguity
+- **An equation for time**
 
+This framework exemplifies consciousness as **the ability for the brain to change when a threat is present**.
+
+---
+
+## Process Overview
+
+The framework consists of **five steps**:
+
+1. **Bayesian Inference One**
+2. **Fuzzy Logic**
+3. **Activation**
+4. **Bayesian Inference Two**
+5. **Conscious Transformation**
+
+---
+
+## Details of the Steps
+
+- **Step Three**  
+  Executes **only if** fuzzy logic concludes that a real threat exists.  
+  → Results in activation of **Glutamate**.
+
+- **Step Four**  
+  Executes **only if** the threat persists for **5400 seconds** (90 minutes) or longer.
+
+  Bayesian Inference is applied again:
+
+P(H) = μHigh(P) from Step Two
+P(E|H) = Dependent on stimuli
+P(E|¬H) = μLow(P) from Step Two
+
+
+- **Step Five**  
+A **Conscious Transformation** occurs **only if**:
+P(H|E) > 0.80
 
 
 # Conscious-AI-Project
