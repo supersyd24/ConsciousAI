@@ -29,6 +29,11 @@ and autonomous cognitive restructuring in response to emotional salience.
 
 ### We can mathematically see consciousness 
 
+1. It starts out with the person dealing with a threat
+2. The brain then recognizes this threat
+
+After that five steps happen 
+
 
 
 # Conscious-AI-Project
