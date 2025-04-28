@@ -29,7 +29,7 @@ and autonomous cognitive restructuring in response to emotional salience.
 
 ### We can mathematically see consciousness 
 
-In this document [View Document]
+In this document [View Document](Mathematical Framework for Modeling Consciousness2.pdf)
 
 # Conscious-AI-Project
 
