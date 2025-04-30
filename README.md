@@ -91,9 +91,9 @@ This project presents the first formal and practical framework for achieving art
   Proposes and details a working architecture for simulating conscious transformation in artificial systems using fuzzy logic, reflection, and autonomous schema formation.  
   [View Paper](Conscious_AI_2.pdf)
 
-## Coming Soon
+## Conscious AI Code
 
-- Conscious AI Chatbot Prototype (Python implementation).
+- See the code [Here](ConsciousAI.py)
 
 ## About the Author
 
