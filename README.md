@@ -95,7 +95,41 @@ This project presents the first formal and practical framework for achieving art
 
 - See the code [here](ConsciousAI.py)
 
-### What my conscious AI does:
+### How It Works — Step by Step
+
+1. **User Message Input**  
+   A user sends a message to the AI (e.g., “I feel okay, but also not okay”).
+
+2. **Tokenization & Processing**  
+   The message is processed by a GPT-2 model enhanced with **LoRA (Low-Rank Adaptation)**, enabling modular schema switching.
+
+3. **Entropy Calculation**  
+   The AI calculates **entropy** from its prediction logits to measure how uncertain or emotionally ambiguous the input is.  
+   - 🔥 High entropy = emotional ambiguity or contradiction  
+   - 🧊 Low entropy = emotionally stable, predictable input
+
+4. **Reflection & Decision**  
+   If entropy exceeds a threshold, the AI:
+   - Reflects on its current understanding  
+   - Checks for matching past schemas  
+   - Decides whether to reuse, update, or generate a new one
+
+5. **🔁 Autonomous Backpropagation**  
+   If no matching schema is found, the AI performs **internal backpropagation** on a pseudo-statement (e.g., “I'm here to support you.”), allowing it to rewire its understanding **without external training**.
+
+6. **💾 Schema Creation & Saving**  
+   A new schema is saved using **LoRA adapters** and stored as a unique identity layer, tagged with:
+   - Timestamp  
+   - Entropy value  
+   - User message that triggered it
+
+7. **🔀 Schema Switching**  
+   When a similar situation arises later, the AI automatically loads the most relevant past schema—mimicking how humans shift between internal states.
+
+8. **💬 Response Generation**  
+   Using its current internal schema, the AI generates a reflective, emotionally aware response—adapting its tone and understanding based on previous learning.
+
+
 
 
 ## About the Author
