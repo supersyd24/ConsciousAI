@@ -93,8 +93,7 @@ This project presents the first formal and practical framework for achieving art
 
 - **Consciousness**
   This paper lays out what consciousness is.
-
-  [View Paper](Consciousness.pdf)
+    [View Paper](Consciousness.pdf)
 
 ## Conscious AI Code
 
