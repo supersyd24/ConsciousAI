@@ -93,7 +93,7 @@ This project presents the first formal and practical framework for achieving art
 
 ## Conscious AI Code
 
-- See the code [here](ConsciousAI.py)
+- See the code [here](ConsciousAI3.py)
 
 ### How It Works — Step by Step
 
