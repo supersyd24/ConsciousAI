@@ -95,6 +95,9 @@ This project presents the first formal and practical framework for achieving art
 
 - See the code [here](ConsciousAI.py)
 
+### What my conscious AI does:
+
+
 ## About the Author
 
 Sydney Cook — passionate about bridging neuroscience, AI, and consciousness studies to build a new generation of truly adaptive artificial minds.
